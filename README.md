@@ -22,6 +22,6 @@
 </ol>
 
 ## Snippets:
-<img src="images/ss1">
-<img src="images/ss2">
-<img src="images/ss3">
+<img src="/ss1.jpg" width = "500" height = "400">
+<img src="/ss2.jpg" width = "500" height = "400">
+<img src="/ss3.jpg" width = "500" height = "400">
