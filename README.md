@@ -1,7 +1,7 @@
 # ChurnPredictionShala
-<br>
+
 ## Steps:
-<br>
+
 
 <ol>
   <li>Data Loading</li>
@@ -20,3 +20,8 @@
   <li>Model Analysis [ Score, Recall, etc ]</li>
   <li>Model Exporting [ Pickel ]</li>
 </ol>
+
+## Snippets:
+<img src="images/ss1">
+<img src="images/ss2">
+<img src="images/ss3">
